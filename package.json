@@ -1,0 +1,23 @@
+{
+  "name": "metric-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kn-xu/metric-sum.git"
+  },
+  "author": "Kevin Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kn-xu/metric-sum/issues"
+  },
+  "homepage": "https://github.com/kn-xu/metric-sum#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
